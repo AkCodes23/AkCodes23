@@ -5,8 +5,23 @@
   <img src="https://komarev.com/ghpvc/?username=akcodes23&label=Profile%20views&color=gray&style=flat" alt="akcodes23" />
 </p>
 
+---
+<h3 align="left">About Me:</h3>
+<p align="left">
+    I'm Akhil Varanasi, a dedicated sophomore pursuing a Bachelor’s in Computers & Communication Engineering at Manipal Institute of Technology. With a passion and interest in Data Science, Machine Learning & Quantum Computing, I strive and put in effort to excel in academics and learning new technologies. My vision is to seamlessly integrate academic rigor with practical insights to make a meaningful impact in the tech industry.
+</p>
+
 - 🌐 **LinkedIn**: [Akhil Varanasi](https://www.linkedin.com/in/akhil-varanasi)
 - 📧 **Email**: [akhilvaranasi23@gmail.com](mailto:akhilvaranasi23@gmail.com)
+
+---
+
+<h3 align="left">Experience:</h3>
+<p>
+  <strong>Robotics Intern at ARTpark IISC Bangalore:</strong> Worked in the field of perception for quadruped robotic automation.<br>
+  
+  <strong>Undergraduate Research Assistant, MIT Manipal:</strong> Working in the field of machine learning under the Department of Computer Science and Engineering.
+</p>
 
 ---
 
