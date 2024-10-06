@@ -25,6 +25,14 @@
 
 ---
 
+<h3 align="left">Acheivements:</h3>
+<p>
+  <strong>Top 10 in Edge AI Innovation Challenge 2024:</strong> Ten teams from 60 universities across India advanced to the final competition phase on October 4, 2024, in Bangalore. From an initial pool of 200 teams, 23 were shortlisted after the first phase and 10 after the second. The ten finalists showcased their innovative product prototypes..<br>
+  
+  
+
+---
+
 <h3 align="left" style="color:#c9d1d9;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akhil-varanasi" target="blank">
