@@ -36,8 +36,11 @@
 <h3 align="left" style="color:#c9d1d9;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akhil-varanasi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akhil Varanasi LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akhil Varanasi LinkedIn" height="40" width="40" />
   </a>
+  <a href="mailto:akhilvaranasi23@gmail.com" target="blank">
+    <img align="center" src="https://th.bing.com/th/id/OIP.6XHqq6Feb-RBYSX1WjQXRgHaGB?rs=1&pid=ImgDetMain" alt="Gmail" height="50" width="60" />
+</a>
 </p>
 
 ---
