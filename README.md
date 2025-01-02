@@ -18,7 +18,9 @@
 
 <h3 align="left">Experience:</h3>
 <p>
-  <strong>Robotics Intern at ARTPARK IISC Bangalore:</strong> Worked in the field of perception for quadruped robotic automation.<br>
+  <strong>Robotics Software Development Engineer Intern @ ARTPARK IISC Bangalore:</strong> Worked in the field of perception for quadruped robotic automation.<br>
+  
+  <strong>Software Development Engineer Intern @ Brilyant IT Solutions:</strong> Developed a Recommendation system.<br>
   
   <strong>Undergraduate Research Assistant, MIT Manipal:</strong> Working in the field of machine learning under the Department of Computer Science and Engineering.
 
