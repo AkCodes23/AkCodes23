@@ -13,7 +13,7 @@
 
 - 🌐 **LinkedIn**: [Akhil Varanasi](https://www.linkedin.com/in/akhil-varanasi)
 - 📧 **Email**: [akhilvaranasi23@gmail.com](mailto:akhilvaranasi23@gmail.com)
-
+-    **Website**:[Link](akhil-portfolio-eta.vercel.app)
 ---
 
 <h3 align="left">Experience:</h3>
