@@ -32,7 +32,15 @@
 <h3 align="left">Acheivements:</h3>
 <p>
   <strong>Top 10 in Edge AI Innovation Challenge 2024:</strong> Ten teams from 60 universities across India advanced to the final competition phase on October 4, 2024, in Bangalore. From an initial pool of 200 teams, 23 were shortlisted after the first phase and 10 after the second. The ten finalists showcased their innovative product prototypes..<br>
-  
+
+  <strong>Winner, Softlaunch Innovation Challenge 2025 by Finova & Institution’s Innovation Council (Ministry of Education
+Initiative):-
+– Held on 19th April 2025, Team BitBytes emerged as winners among over 200 participants. Successfully presented ”Voice
+to Visualization”, a Gen-AI-powered solution designed to transform how non-technical business users interact with data.
+The system enables real-time, voice-driven queries and delivers dynamic visual insights—eliminating the need for SQL
+knowledge or manual report generation. Targeted at SMB owners and decision-makers, it bridges the gap between data
+and decisions, empowering faster, more informed actions. The solution follows a SaaS model with scalable monetization
+strategies including tiered plans, API access, and marketplace add-ons.<br>
   
 
 ---
