@@ -21,6 +21,8 @@
   <strong>Robotics Software Development Engineer Intern @ ARTPARK IISC Bangalore:</strong> Worked in the field of perception for quadruped robotic automation.<br>
   
   <strong>Software Development Engineer Intern @ Brilyant IT Solutions:</strong> Developed a Recommendation system.<br>
+
+  <strong>AI & Robotics Researcher @ INNOTECH Manipal :</strong> Researching in the field of Artificial Intelligence, with a focus on Agentic AI, Multimodal Large Language Models (LLMs),Transformers, Hybrid AI Architectures, and Retrieval-Augmented Generation (RAG).
   
   <strong>Undergraduate Research Assistant, MIT Manipal:</strong> Working in the field of machine learning under the Department of Computer Science and Engineering.
 
