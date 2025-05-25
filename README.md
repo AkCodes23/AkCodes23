@@ -145,7 +145,7 @@
 ---
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-0050C8?style=for-the-badge&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00B0FF?style=for-the-badge&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL--SQL-darkblue?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-0050C8?style=for-the-badge&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00B0FF?style=for-the-badge&logoColor=white)
 
 ---
 
