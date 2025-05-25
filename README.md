@@ -73,18 +73,27 @@
 
 ---
 
-<h3 align="left">Acheivements:</h3>
-<p>
-  <strong>Top 10 in Edge AI Innovation Challenge 2024:</strong> Ten teams from 60 universities across India advanced to the final competition phase on October 4, 2024, in Bangalore. From an initial pool of 200 teams, 23 were shortlisted after the first phase and 10 after the second. The ten finalists showcased their innovative product prototypes..<br>
+<h3 align="left">🏆 Achievements:</h3>
 
-  <strong>Winner, Softlaunch Innovation Challenge 2025 by Finova & Institution’s Innovation Council (Ministry of Education
-Initiative):-
-– Held on 19th April 2025, Team BitBytes emerged as winners among over 200 participants. Successfully presented ”Voice
-to Visualization”, a Gen-AI-powered solution designed to transform how non-technical business users interact with data.
-The system enables real-time, voice-driven queries and delivers dynamic visual insights—eliminating the need for SQL
-knowledge or manual report generation. Targeted at SMB owners and decision-makers, it bridges the gap between data
-and decisions, empowering faster, more informed actions. The solution follows a SaaS model with scalable monetization
-strategies including tiered plans, API access, and marketplace add-ons.<br>
+<p>
+  <img src="https://img.shields.io/badge/Top%2010-Edge%20AI%20Innovation%20Challenge%202024-blueviolet?style=for-the-badge&logo=brain&logoColor=white" />
+  <br>
+  <strong>Top 10 in Edge AI Innovation Challenge 2024</strong><br>
+  <em>Organized by top institutions and industry partners</em><br>
+  From an initial pool of <strong>200+ teams across 60 universities in India</strong>, our team advanced through two rigorous phases, emerging as one of the <strong>Top 10 finalists</strong>. The final phase, held on <strong>October 4, 2024, in Bangalore</strong>, involved showcasing <strong>innovative edge computing product prototypes</strong> addressing real-world challenges in AI automation.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Winner-Softlaunch%20Innovation%20Challenge%202025-orange?style=for-the-badge&logo=lightning&logoColor=white" />
+  <br>
+  <strong>Winner, Softlaunch Innovation Challenge 2025</strong><br>
+  <em>Hosted by Finova & Institution’s Innovation Council (Ministry of Education Initiative)</em><br>
+  Held on <strong>April 19, 2025</strong>, Team <strong>BitBytes</strong> emerged as the winner among <strong>200+ participants</strong> by presenting <strong>"Voice to Visualization"</strong> — a <em>Gen-AI-powered SaaS solution</em> aimed at transforming how non-technical business users interact with data.<br><br>
+  The system supports <strong>real-time, voice-driven queries</strong> and generates <strong>dynamic, intelligent data visualizations</strong>—eliminating the need for SQL or manual BI reports. <br><br>
+  <em>Target Audience:</em> SMB owners, product teams, and data decision-makers.<br>
+  <em>Business Model:</em> SaaS delivery with <strong>tiered pricing plans, API access, and marketplace add-ons</strong> for scalable monetization.
+</p>
+
   
 
 ---
@@ -146,16 +155,24 @@ strategies including tiered plans, API access, and marketplace add-ons.<br>
 </div>
 
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akcodes23&show_icons=true&locale=en&theme=github_dark" alt="akcodes23" />
+<h3 align="left">📊 GitHub Stats & Activity:</h3>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akcodes23&theme=github-dark" alt="akcodes23" />
-</p>
+<div align="center">
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akcodes23&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" height="180px"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akcodes23&theme=github-dark" alt="GitHub Streak" height="180px"/>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akcodes23&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="akcodes23" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akcodes23&theme=nord_dark" alt="Profile Summary"/></a>
-</p>
+  <!-- Most Used Languages (Compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akcodes23&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages (Compact)" height="180px"/>
 
-<a href="https://github.com/akcodes23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodes23&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <!-- GitHub Profile Summary Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akcodes23&theme=nord_dark" alt="Profile Summary" height="180px"/>
+
+  <!-- Extended Top Languages Card (Enlarged) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodes23&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages Extended" width="300px"/>
+
+</div>
+
