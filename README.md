@@ -1,5 +1,11 @@
 <h1 align="center" style="color:#c9d1d9;">Hi 👋, I'm Akhil Varanasi</h1>
-<h3 align="center" style="color:#8b949e;">A Passionate AI Engineer & Data Scientist</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?center=True&duration=3000&pause=500&lines=Agentic+AI+Developer;Multimodal+LLM+Researcher;Quantum+Computing+Enthusiast;Edge+AI+Innovator;AI+Solutions+Architect;Robotics+Perception+Engineer" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akcodes23&label=Profile%20views&color=gray&style=flat" alt="akcodes23" />
@@ -8,26 +14,62 @@
 ---
 <h3 align="left">About Me:</h3>
 <p align="left">
-    I'm Akhil Varanasi, a dedicated sophomore pursuing a Bachelor’s in Computers & Communication Engineering at Manipal Institute of Technology. With a passion and interest in Data Science, Machine Learning & Quantum Computing, I strive and put in effort to excel in academics and learning new technologies. My vision is to seamlessly integrate academic rigor with practical insights to make a meaningful impact in the tech industry.
+    I’m Akhil Varanasi, a Computer & Communication Engineering undergraduate at Manipal Institute of Technology, deeply passionate about exploring the intersection of Artificial Intelligence, Robotics, and Emerging Technologies. My interests lie in understanding how Agentic AI, Multimodal Large Language Models, and Quantum Computing can solve complex, real-world challenges—from healthcare automation to intelligent robotics. I enjoy experimenting with hybrid AI architectures, generative models, and edge computing to build systems that adapt to dynamic environments. Beyond technical exploration, I’m driven by how these technologies can simplify human interaction with data, improve decision-making, and create scalable solutions for underserved domains. Whether it’s refining recommendation algorithms or prototyping voice-driven tools for non-technical users, I aim to bridge theoretical concepts with practical, user-centric applications.
 </p>
 
-- 🌐 **LinkedIn**: [Akhil Varanasi](https://www.linkedin.com/in/akhil-varanasi)
-- 📧 **Email**: [akhilvaranasi23@gmail.com](mailto:akhilvaranasi23@gmail.com)
--    **Website**:[Link](https://akhil-portfolio-eta.vercel.app/)
+
+
+<h3 align="left" style="color:#c9d1d9;">📫 Get In Touch:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/akhil-varanasi" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akhilvaranasi23@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://akhil-portfolio-eta.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 ---
 
-<h3 align="left">Experience:</h3>
+<h3 align="left">🧠 Experience:</h3>
+
 <p>
-  <strong>Robotics Software Development Engineer Intern @ ARTPARK IISC Bangalore:</strong> Worked in the field of perception for quadruped robotic automation.<br>
-  
-  <strong>Software Development Engineer Intern @ Brilyant IT Solutions:</strong> Developed a Recommendation system.<br>
-
-  <strong>AI & Robotics Researcher @ INNOTECH Manipal :</strong> Researching in the field of Artificial Intelligence, with a focus on Agentic AI, Multimodal Large Language Models (LLMs),Transformers, Hybrid AI Architectures, and Retrieval-Augmented Generation (RAG).
-  
-  <strong>Undergraduate Research Assistant, MIT Manipal:</strong> Working in the field of machine learning under the Department of Computer Science and Engineering.
-
-  <strong>Open Source Contributor, GSSoC'24:</strong> Open Source Contributions in the Field of AI
+  <img src="https://img.shields.io/badge/Internship-Robotics%20SDE%20@%20ARTPARK%20IISC-blue?style=for-the-badge&logo=robots&logoColor=white" />
+  <br>
+  <strong>Robotics Software Development Engineer Intern @ ARTPARK IISC Bangalore:</strong><br>
+  Worked in the field of perception for quadruped robotic automation.
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Internship-SDE%20@%20Brilyant%20IT%20Solutions-green?style=for-the-badge&logo=next.js&logoColor=white" />
+  <br>
+  <strong>Software Development Engineer Intern @ Brilyant IT Solutions:</strong><br>
+  Developed a production-grade recommendation system.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Research-AI%20%26%20Robotics%20@%20INNOTECH-purple?style=for-the-badge&logo=ai&logoColor=white" />
+  <br>
+  <strong>AI & Robotics Researcher @ INNOTECH Manipal:</strong><br>
+  Research in Agentic AI, Multimodal LLMs, Transformers, Hybrid AI Architectures, and RAG.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Research-ML%20@%20MIT%20Manipal-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  <br>
+  <strong>Undergraduate Research Assistant, MIT Manipal:</strong><br>
+  Working in machine learning under the Dept. of Computer Science and Engineering.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC'24-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <br>
+  <strong>Open Source Contributor, GSSoC'24:</strong><br>
+  Open Source Contributions in the Field of AI.
+</p>
+
 
 ---
 
@@ -50,116 +92,59 @@ strategies including tiered plans, API access, and marketplace add-ons.<br>
 <h3 align="left" style="color:#c9d1d9;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akhil-varanasi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akhil Varanasi LinkedIn" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:akhilvaranasi23@gmail.com" target="blank">
-    <img align="center" src="https://th.bing.com/th/id/OIP.6XHqq6Feb-RBYSX1WjQXRgHaGB?rs=1&pid=ImgDetMain" alt="Gmail" height="50" width="60" />
-</a>
-</p>
-
----
-
-<h3 align="left" style="color:#c9d1d9;">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/512px-Ros_logo.svg.png" alt="Bash" width="50" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
+
+## 💻 Skills
+
+<div align="center">
+
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+### 🧠 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![GANs](https://img.shields.io/badge/GANs-black?style=for-the-badge&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-blue?style=for-the-badge&logoColor=white)
+
+---
+
+### 🔁 Agentic & Generative AI  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white) ![Transformers](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) ![LoRA](https://img.shields.io/badge/LoRA-green?style=for-the-badge&logoColor=white) ![PEFT](https://img.shields.io/badge/PEFT-grey?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge&logoColor=white)
+
+---
+
+### 📊 Data Analysis & Visualization  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-%2300C4CC.svg?style=for-the-badge&logo=Gradio&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+### 🧰 Tools & Technologies  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-black?style=for-the-badge&logo=ros&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-%230075B6.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-grey?style=for-the-badge&logoColor=white) ![Text to Speech](https://img.shields.io/badge/Text%20to%20Speech-grey?style=for-the-badge&logoColor=white)
+
+---
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-0050C8?style=for-the-badge&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00B0FF?style=for-the-badge&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL--SQL-darkblue?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps  
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker CI/CD](https://img.shields.io/badge/Docker%20CI%2FCD-blue?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 💻 Operating Systems  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akcodes23&show_icons=true&locale=en&theme=github_dark" alt="akcodes23" />
@@ -170,7 +155,7 @@ strategies including tiered plans, API access, and marketplace add-ons.<br>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akcodes23&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="akcodes23" />
-  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akcodes23&theme=nord_dark" alt="Profile Summary"/></a>
 </p>
 
 <a href="https://github.com/akcodes23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodes23&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
