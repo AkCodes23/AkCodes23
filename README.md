@@ -170,4 +170,7 @@ strategies including tiered plans, API access, and marketplace add-ons.<br>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akcodes23&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="akcodes23" />
+  
 </p>
+
+<a href="https://github.com/akcodes23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodes23&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
