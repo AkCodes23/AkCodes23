@@ -70,32 +70,6 @@
   Open Source Contributions in the Field of AI.
 </p>
 
-
----
-
-<h3 align="left">🏆 Achievements:</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Top%2010-Edge%20AI%20Innovation%20Challenge%202024-blueviolet?style=for-the-badge&logo=brain&logoColor=white" />
-  <br>
-  <strong>Top 10 in Edge AI Innovation Challenge 2024</strong><br>
-  <em>Organized by top institutions and industry partners</em><br>
-  From an initial pool of <strong>200+ teams across 60 universities in India</strong>, our team advanced through two rigorous phases, emerging as one of the <strong>Top 10 finalists</strong>. The final phase, held on <strong>October 4, 2024, in Bangalore</strong>, involved showcasing <strong>innovative edge computing product prototypes</strong> addressing real-world challenges in AI automation.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Winner-Softlaunch%20Innovation%20Challenge%202025-orange?style=for-the-badge&logo=lightning&logoColor=white" />
-  <br>
-  <strong>Winner, Softlaunch Innovation Challenge 2025</strong><br>
-  <em>Hosted by Finova & Institution’s Innovation Council (Ministry of Education Initiative)</em><br>
-  Held on <strong>April 19, 2025</strong>, Team <strong>BitBytes</strong> emerged as the winner among <strong>200+ participants</strong> by presenting <strong>"Voice to Visualization"</strong> — a <em>Gen-AI-powered SaaS solution</em> aimed at transforming how non-technical business users interact with data.<br><br>
-  The system supports <strong>real-time, voice-driven queries</strong> and generates <strong>dynamic, intelligent data visualizations</strong>—eliminating the need for SQL or manual BI reports. <br><br>
-  <em>Target Audience:</em> SMB owners, product teams, and data decision-makers.<br>
-  <em>Business Model:</em> SaaS delivery with <strong>tiered pricing plans, API access, and marketplace add-ons</strong> for scalable monetization.
-</p>
-
-  
-
 ---
 
 <h3 align="left" style="color:#c9d1d9;">Connect with me:</h3>
