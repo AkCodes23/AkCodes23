@@ -31,56 +31,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
----
-
-<h3 align="left">🧠 Experience:</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Internship-Robotics%20SDE%20@%20ARTPARK%20IISC-blue?style=for-the-badge&logo=robots&logoColor=white" />
-  <br>
-  <strong>Robotics Software Development Engineer Intern @ ARTPARK IISC Bangalore:</strong><br>
-  Worked in the field of perception for quadruped robotic automation.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Internship-SDE%20@%20Brilyant%20IT%20Solutions-green?style=for-the-badge&logo=next.js&logoColor=white" />
-  <br>
-  <strong>Software Development Engineer Intern @ Brilyant IT Solutions:</strong><br>
-  Developed a production-grade recommendation system.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Research-AI%20%26%20Robotics%20@%20INNOTECH-purple?style=for-the-badge&logo=ai&logoColor=white" />
-  <br>
-  <strong>AI & Robotics Researcher @ INNOTECH Manipal:</strong><br>
-  Research in Agentic AI, Multimodal LLMs, Transformers, Hybrid AI Architectures, and RAG.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Research-ML%20@%20MIT%20Manipal-yellow?style=for-the-badge&logo=python&logoColor=black" />
-  <br>
-  <strong>Undergraduate Research Assistant, MIT Manipal:</strong><br>
-  Working in machine learning under the Dept. of Computer Science and Engineering.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC'24-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <br>
-  <strong>Open Source Contributor, GSSoC'24:</strong><br>
-  Open Source Contributions in the Field of AI.
-</p>
-
----
-
-<h3 align="left" style="color:#c9d1d9;">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/akhil-varanasi" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:akhilvaranasi23@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 ---
 
