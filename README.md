@@ -14,7 +14,8 @@
 ---
 <h3 align="left">About Me:</h3>
 <p align="left">
-    I’m Akhil Varanasi, a Computer & Communication Engineering undergraduate at Manipal Institute of Technology, deeply passionate about exploring the intersection of Artificial Intelligence, Robotics, and Emerging Technologies. My interests lie in understanding how Agentic AI, Multimodal Large Language Models, and Quantum Computing can solve complex, real-world challenges—from healthcare automation to intelligent robotics. I enjoy experimenting with hybrid AI architectures, generative models, and edge computing to build systems that adapt to dynamic environments. Beyond technical exploration, I’m driven by how these technologies can simplify human interaction with data, improve decision-making, and create scalable solutions for underserved domains. Whether it’s refining recommendation algorithms or prototyping voice-driven tools for non-technical users, I aim to bridge theoretical concepts with practical, user-centric applications.
+    I’m Akhil Varanasi, driven by the vision of using AI to create real impact in the world.
+I believe in building innovative solutions that solve meaningful problems and push the boundaries of what’s possible with technology.
 </p>
 
 
