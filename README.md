@@ -2,8 +2,6 @@
   <img src="luffy.gif" alt="Demo" width="900"/>
 </div>
 
-<h1 align="center" style="color:#c9d1d9;">Hi 👋, I'm Akhil Varanasi</h1>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?center=True&duration=3000&pause=500&lines=AI+Researcher;Quantum+Computing+Enthusiast;Edge+AI+Innovator;AI+Solutions+Architect;" alt="Typing SVG" />
@@ -15,29 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=akcodes23&label=Profile%20views&color=blue&style=flat" alt="akcodes23" />
 </p>
 
----
-<h3 align="left">About Me:</h3>
-<p align="left">
-    I’m Akhil Varanasi, driven by the vision of using AI to create real impact in the world.
-I believe in building innovative solutions that solve meaningful problems and push the boundaries of what’s possible with technology.
-</p>
 
-
-
-<h3 align="left" style="color:#c9d1d9;">📫 Get In Touch:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/akhil-varanasi" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:akhilvaranasi23@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://akhil-portfolio-eta.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
 
 
 </div>
@@ -63,7 +39,51 @@ I believe in building innovative solutions that solve meaningful problems and pu
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+
+ ██╗   ▄█╗ ███╗   ███╗
+ ██║   ▀═╝ ████╗ ████║
+ ██║       ██╔████╔██║
+ ██║       ██║╚██╔╝██║
+ ██║       ██║ ╚═╝ ██║
+ ╚═╝       ╚═╝     ╚═╝
+          
+ █████╗ ██╗  ██╗██╗  ██╗██╗██╗     
+██╔══██╗██║ ██╔╝██║  ██║██║██║     
+███████║█████╔╝ ███████║██║██║     
+██╔══██║██╔═██╗ ██╔══██║██║██║     
+██║  ██║██║  ██╗██║  ██║██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+
+██╗   ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ███████╗██╗
+██║   ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔════╝██║
+██║   ██║███████║██████╔╝███████║██╔██╗ ██║███████║███████╗██║
+╚██╗ ██╔╝██╔══██║██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚════██║██║
+ ╚████╔╝ ██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║███████║██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝
 ```
+---
+<h3 align="left">About Me:</h3>
+<p align="left">
+    I’m Akhil Varanasi, driven by the vision of using AI to create real impact in the world.
+I believe in building innovative solutions that solve meaningful problems and push the boundaries of what’s possible with technology.
+</p>
+
+
+
+<h3 align="left" style="color:#c9d1d9;">📫 Get In Touch:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/akhil-varanasi" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akhilvaranasi23@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://akhil-portfolio-eta.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
 
 <br><br>   
 
