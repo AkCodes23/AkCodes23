@@ -78,7 +78,7 @@ I believe in building innovative solutions that solve meaningful problems and pu
   <a href="mailto:akhilvaranasi23@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://akhil-portfolio-eta.vercel.app/" target="blank">
+  <a href="https://www.akcodes23.dev/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
