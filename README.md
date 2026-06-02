@@ -93,19 +93,18 @@ I believe in building innovative solutions that solve meaningful problems and pu
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akcodes23&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=akcodes23&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" height="180px"/>
   
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akcodes23&theme=github-dark" alt="GitHub Streak" height="180px"/>
 
   <!-- Most Used Languages (Compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akcodes23&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages (Compact)" height="180px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=akcodes23&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages (Compact)" height="180px"/>
 
   <!-- GitHub Profile Summary Card -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akcodes23&theme=nord_dark" alt="Profile Summary" height="180px"/>
 
-  <!-- Extended Top Languages Card (Enlarged) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodes23&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages Extended" width="300px"/>
+  
 
 </div>
 
