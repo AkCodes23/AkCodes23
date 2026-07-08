@@ -84,10 +84,9 @@ I believe in building innovative solutions that solve meaningful problems and pu
 </p>
 
 ---
-
+### Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br><br>   
-
-
 <h3 align="left">📊 GitHub Stats & Activity:</h3>
 
 <div align="center">
