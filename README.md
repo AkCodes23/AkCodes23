@@ -68,6 +68,20 @@
 I believe in building innovative solutions that solve meaningful problems and push the boundaries of what’s possible with technology.
 </p>
 
+## Currently
+
+* **Applied AI Intern** @ Boston
+* **Global Ambassador** @ PyTorch
+* **Lead Researcher** - Centre for Advanced Scientific and Industrial Research, MAHE
+
+## Previously
+
+* **AI Engineer Intern** @ ZuuZ *(NVIDIA Inception)*
+* **SDE Intern** @ Brilyant
+* **SDE Intern** @ ARTPARK, IISc Bangalore
+
+* Head of AI @ Manipal Open Source Society
+
 
 
 <h3 align="left" style="color:#c9d1d9;">📫 Get In Touch:</h3>
