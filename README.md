@@ -70,7 +70,7 @@ I believe in building innovative solutions that solve meaningful problems and pu
 
 ## Currently
 
-* **Applied AI Intern** @ Boston
+* **AI Engineer Intern** @ Boston
 * **Global Ambassador** @ PyTorch
 * **Lead Researcher** - Centre for Advanced Scientific and Industrial Research, MAHE
 
