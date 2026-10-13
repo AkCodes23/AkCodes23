@@ -73,6 +73,7 @@ I believe in building innovative solutions that solve meaningful problems and pu
 * **AI Engineer Intern** @ Boston
 * **Global Ambassador** @ PyTorch
 * **Lead Researcher** - Centre for Advanced Scientific and Industrial Research, MAHE
+* Nvidia Inception
 
 ## Previously
 
