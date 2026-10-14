@@ -72,7 +72,7 @@ I believe in building innovative solutions that solve meaningful problems and pu
 
 * **AI Engineer Intern** @ Boston
 * **Global Ambassador** @ PyTorch
-* **Lead Researcher** - Centre for Advanced Scientific and Industrial Research, MAHE
+* **Lead Researcher** @ Centre for Advanced Scientific and Industrial Research, MAHE
 * Nvidia Inception
 
 ## Previously
@@ -82,7 +82,7 @@ I believe in building innovative solutions that solve meaningful problems and pu
 * **SDE Intern** @ ARTPARK, IISc Bangalore
 
 * Head of AI @ Manipal Open Source Society
-
+* Head of AI Research @ Innotech Manipal
 
 
 <h3 align="left" style="color:#c9d1d9;">📫 Get In Touch:</h3>
